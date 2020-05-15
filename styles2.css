@@ -1,4 +1,5 @@
 body {
 	color: #44343a;
 	background: #da2324;
+	display: flex;
 }
